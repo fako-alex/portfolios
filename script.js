@@ -241,6 +241,19 @@ const certifications = [
 
         file:
             "certifications/Gérer son temps et être plus productif_page-0001.pdf"
+    },
+
+    {
+        title: "Gestion de projet Agile",
+
+        description:
+            "Cette certification valide ma maîtrise des principes et pratiques fondamentales de la gestion de projet Agile. Compétences validées : Définition d’un Minimum Viable Product (MVP), Distinction entre développement itératif et incrémental, Utilisation des outils Agile : Scrum, Kanban, tableaux de flux, Gestion et structuration d’un backlog produit, Organisation des tâches via sprints, priorisation, revues et rétrospectives, Amélioration du workflow et de la collaboration en équipe, Analyse des avantages et limites des méthodes Agile, Application des pratiques agiles pour optimiser la gestion de projet et le développement de produits",
+
+        image:
+            "certifications/Gestion de projet Agile.png",
+
+        file:
+            "certifications/Gestion de projet Agile.pdf"
     }
 
 ];
